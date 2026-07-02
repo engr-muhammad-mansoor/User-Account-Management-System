@@ -82,8 +82,8 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd spring-boot-3-jwt-security-main
+git clone https://github.com/engr-muhammad-mansoor/User-Account-Management-System.git
+cd User-Account-Management-System
 ```
 
 ### 2. Database Setup
